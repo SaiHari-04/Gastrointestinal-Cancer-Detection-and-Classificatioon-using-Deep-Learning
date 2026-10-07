@@ -1,0 +1,28 @@
+{
+  "classes": [
+    "dyed-lifted-polyps",
+    "dyed-resection-margins",
+    "esophagitis",
+    "normal-cecum",
+    "normal-pylorus",
+    "normal-z-line",
+    "polyps",
+    "ulcerative-colitis"
+  ],
+  "risk_mapping": {
+    "dyed-lifted-polyps": "High Risk",
+    "dyed-resection-margins": "High Risk",
+    "esophagitis": "Medium Risk",
+    "normal-cecum": "Low Risk",
+    "normal-pylorus": "Low Risk",
+    "normal-z-line": "Low Risk",
+    "polyps": "High Risk",
+    "ulcerative-colitis": "High Risk"
+  },
+  "k_folds": 3,
+  "mean_accuracy": 0.8139269550641378,
+  "std_accuracy": 0.005820803602260946,
+  "img_size": 128,
+  "total_images": 876,
+  "model": "MobileNetV2_Fast"
+}
