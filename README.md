@@ -136,13 +136,4 @@ The trained model files and project source code are included for demonstration a
 * Develop a more user-friendly web interface.
 * Deploy the trained model as a cloud-based medical image analysis application.
 
-## 👨‍💻 Author
 
-**Sai Hari B**
-
-B.E. Computer Science Engineering
-Sathyabama Institute of Science and Technology
-
-## ⚠️ Disclaimer
-
-This project is developed for **educational and research purposes**. It is not intended to replace professional medical diagnosis or clinical decision-making.
