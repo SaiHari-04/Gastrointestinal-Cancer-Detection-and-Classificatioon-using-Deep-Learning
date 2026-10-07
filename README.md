@@ -1,4 +1,4 @@
-#Gastrointestinal Cancer Detection & Classification Using Deep Learning
+# Gastrointestinal Cancer Detection & Classification Using Deep Learning
 
 ## 📌 Project Overview
 
